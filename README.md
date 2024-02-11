@@ -1,13 +1,14 @@
 # awesome-webrtc
 Community list of awesome projects, apps, tools, libraries and more related to WebRTC
 
-## Contens
+## Contents
 
 - [Projects](#projects)
 - [Javascript](#javascript)
 - [Node](#node)
 - [Go](#go)
-- [Stun & Turn](#stun-&-turn)
+- [C/C++](#cc)
+- [Stun & Turn](#stun--turn)
 - [Samples](#samples)
 - [Contribute](#contribute)
 - [License](#license)
