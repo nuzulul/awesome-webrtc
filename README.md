@@ -7,13 +7,14 @@ WebRTC is real-time communication for the web.
 ## Contents
 
 - [Projects](#projects)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [Node](#node)
 - [Go](#go)
 - [C/C++](#cc)
 - [Stun & Turn](#stun--turn)
 - [Samples](#samples)
 - [Miscellaneous](#miscellaneous)
+- [Contribute](#contribute)
 
 ## Projects
 
@@ -27,7 +28,7 @@ WebRTC is real-time communication for the web.
 - [Databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turns any device with a web browser into a secondary screen for your computer.
 - [edumeet](https://github.com/edumeet/edumeet) - Multiparty web-meetings using mediasoup and WebRTC.
-- [filedrop](https://github.com/mat-sz/filedrop) - WebRTC E2E encrypted file transfer - React + node.js.
+- [filedrop](https://github.com/mat-sz/filedrop) - WebRTC E2E encrypted file transfer - React + Node.js.
 - [Filegogo](https://github.com/a-wing/filegogo) - A file transfer tool that can be used in the browser webrtc p2p.
 - [FilePizza](https://github.com/kern/filepizza) - Peer-to-peer file transfers in your browser.
 - [flok](https://github.com/munshkr/flok) - Web-based P2P collaborative editor for live coding sounds and images.
@@ -65,7 +66,7 @@ WebRTC is real-time communication for the web.
 - [quik](https://github.com/boratanrikulu/quik) - Free video conferencing over WebRTC in Go.
 - [quickmeet](https://github.com/i-aryan/quickmeet) - A video chat/meeting webapp using WebRTC and WebSockets. Basically a Google Meet clone + a collaborative Whiteboard.
 - [React-VideoCall](https://github.com/nguymin4/react-videocall) - WebRTC-React App for Video Calling.
-- [remotecontrol-desktop](https://github.com/codext-remotecontrol/remotecontrol-desktop) - Remote Control Desktop is a robust, reliable and fast remote desktop software for Windows / MacOS / Linux.
+- [remotecontrol-desktop](https://github.com/codext-remotecontrol/remotecontrol-desktop) - Remote Control Desktop is a robust, reliable and fast remote desktop software for Windows / macOS / Linux.
 - [Roomler](https://github.com/gjovanov/roomler) - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway).
 - [rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing.
@@ -90,7 +91,7 @@ WebRTC is real-time communication for the web.
 - [wireless-microphone](https://github.com/suda/wireless-microphone) - Turn any device into a wireless microphone over the internet.
 - [zero-share](https://github.com/ntsd/zero-share) - A client-side secure P2P file sharing using WebRTC.
 
-## Javascript
+## JavaScript
 
 - [adapter.js](https://github.com/webrtcHacks/adapter) - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
 - [data-transport](https://github.com/unadlib/data-transport) - A simple and responsible universal transport.
@@ -182,14 +183,14 @@ WebRTC is real-time communication for the web.
 - [stream-live-system](https://github.com/nelsonwenner/stream-live-system) - An example of a live broadcast system using microservice concepts and architected with docker.
 - [transparent-virtual-background](https://github.com/webrtcHacks/transparent-virtual-background) - Transparent backgrounds with WebRTC.
 - [Video-Call-App](https://github.com/amirsanni/Video-Call-App) - A text, audio and video chat application built with webRTC and Ratchet (PHP WebSocket).
-- [Video-Call-App-NodeJS](https://github.com/amirsanni/Video-Call-App-NodeJS) - A conference call implementation using WebRTC, Socket.io and Node.js.
+- [Video-Call-App-Node.js](https://github.com/amirsanni/Video-Call-App-Node.js) - A conference call implementation using WebRTC, Socket.io and Node.js.
 - [Video Chat](https://github.com/mihir0699/Video-Chat) - Video calling and chatting app (PWA) built using React.js, Web RTC and Socket.io.
 - [video-chat](https://github.com/Fernanda-Kipper/video-chat) - This application is a video-chat built using WebRTC and P2P Connections where you can call and talk to all online users.
-- [Video Chat WebApp](https://github.com/sastava007/Video-Chat-WebApp-Scalled-Horizontally) - Video Chat WebApp using NodeJS | Redis | VueJS | WebRTC | Socket.io.
+- [Video Chat WebApp](https://github.com/sastava007/Video-Chat-WebApp-Scalled-Horizontally) - Video Chat WebApp using Node.js | Redis | VueJS | WebRTC | Socket.io.
 - [Video Meeting](https://github.com/0x5eba/Video-Meeting) - Google Meet / Zoom clone in a few lines of code.
 - [video-group-meeting](https://github.com/Hyunse/video-group-meeting) - WebRTC video chat for multi users using React and Node Express.
 - [videosdk-rtc-react-sdk-example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example) - WebRTC based video conferencing SDK for React JS.
-- [Video-conferencing-web-application](https://github.com/omkar13/Video-conferencing-web-application) - Developed a multi-party video conferencing and web chat application using WebRTC, Javascript and Web-sockets with features such as canvas sharing, presentation sharing and video sharing.
+- [Video-conferencing-web-application](https://github.com/omkar13/Video-conferencing-web-application) - Developed a multi-party video conferencing and web chat application using WebRTC, JavaScript and Web-sockets with features such as canvas sharing, presentation sharing and video sharing.
 - [webrtc](https://github.com/maitrungduc1410/webrtc) - Mirror of The Official WebRTC repository.
 - [webrtc-video-conference-simple-peer](https://github.com/Dirvann/webrtc-video-conference-simple-peer) - A simple video conferencing example using simple-peer.
 - [webrtc-cpp-sample](https://github.com/llamerada-jp/webrtc-cpp-sample) - Sample program for using WebRTC on C++.
