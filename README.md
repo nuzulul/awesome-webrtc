@@ -14,8 +14,6 @@ WebRTC is real-time communication for the web.
 - [Stun & Turn](#stun--turn)
 - [Samples](#samples)
 - [Miscellaneous](#miscellaneous)
-- [Contribute](#contribute)
-- [License](#license)
 
 ## Projects
 
@@ -231,7 +229,3 @@ WebRTC is real-time communication for the web.
 Contributions are welcome!
 
 See the [Contribution Guidelines](https://github.com/nuzulul/awesome-webrtc/blob/main/CONTRIBUTING.md).
-
-## License
-
-[MIT](https://github.com/nuzulul/awesome-webrtc/blob/main/LICENSE)
