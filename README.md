@@ -94,8 +94,10 @@ Community list of awesome projects, apps, tools, libraries and more related to W
 - [adapter.js](https://github.com/webrtcHacks/adapter) - JavaScript shim for abstracting WebRTC spec changes and inconsistencies
 - [data-transport](https://github.com/unadlib/data-transport) - A simple and responsible universal transport
 - [DetectRTC](https://github.com/muaz-khan/DetectRTC) - A tiny JavaScript library that can be used to detect WebRTC features e.g. system having speakers, microphone or webcam, screen capturing is supported, number of audio/video devices etc
+- [discovery-swarm-webrtc](https://github.com/geut/discovery-swarm-webrtc) - Discovery-swarm for WebRTC
 - [hyperhost](https://github.com/t-mullen/hyperhost) - P2P Node Servers in the Browser
 - [instacam](https://github.com/xavierfoucrier/instacam) - Library to perform instant canvas video through the WebRTC API with a fresh touch of CSS filters
+- [liowebrtc](https://github.com/lazorfuzz/liowebrtc) - An event-based WebRTC library that makes it easy to embed real-time peer to peer communication into UI components
 - [LiveKit browser client SDK](https://github.com/livekit/client-sdk-js) -  Add real-time video, audio and data features to your JavaScript/TypeScript app
 - [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording
 - [MultiStreamsMixer](https://github.com/muaz-khan/MultiStreamsMixer) - JavaScript library that allows you pass multiple streams (e.g. screen+camera or multiple-cameras) and get single stream
@@ -122,6 +124,7 @@ Community list of awesome projects, apps, tools, libraries and more related to W
 - [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC
 - [SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [simple-signal](https://github.com/t-mullen/simple-signal) - Signalling solution for simple-peer with socket.io
+- [werift-webrtc](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4
 
 ## Go
 
