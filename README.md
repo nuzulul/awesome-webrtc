@@ -114,7 +114,7 @@ WebRTC is real-time communication for the web.
 - [simple-peer-files](https://github.com/subins2000/simple-peer-files) - A library to send files over WebRTC.
 - [trystero](https://github.com/dmotz/trystero) - Build instant multiplayer webapps, no server required.
 - [video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite.
-- [webConnect.js](https://github.com/nuzulul/webConnect.js) - WebRTC peer-to-peer connection without signaling server.
+- [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC peer-to-peer connection for static client side web application.
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
 - [webrtc-issue-detector](https://github.com/VLprojects/webrtc-issue-detector) - Diagnostic tool and troubleshooter for WebRTC applications with Mean Opinion Score (MOS) calculator.
 
