@@ -87,6 +87,7 @@ WebRTC is real-time communication for the web.
 - [webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
 - [WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC.
 - [WebTorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web.
+- [WIFIDrop](https://github.com/nuzulul/wifidrop) - Instant transfer unlimited size of files over WIFI.
 - [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 - [wireless-microphone](https://github.com/suda/wireless-microphone) - Turn any device into a wireless microphone over the internet.
 - [zero-share](https://github.com/ntsd/zero-share) - A client-side secure P2P file sharing using WebRTC.
@@ -115,6 +116,7 @@ WebRTC is real-time communication for the web.
 - [trystero](https://github.com/dmotz/trystero) - Build instant multiplayer webapps, no server required.
 - [video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite.
 - [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC peer-to-peer connection for static client side web application.
+- [WebPEER](https://github.com/nuzulul/webpeerjs) - WebPEER is a novel decentralized P2P network inside browser with a chance of working.
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
 - [webrtc-issue-detector](https://github.com/VLprojects/webrtc-issue-detector) - Diagnostic tool and troubleshooter for WebRTC applications with Mean Opinion Score (MOS) calculator.
 
