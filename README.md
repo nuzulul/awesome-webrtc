@@ -1,6 +1,8 @@
+![WebRTC](webrtc.png)
+
 # Awesome WebRTC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> WebRTC is real-time communication for the web.
+> WebRTC (Web Real-Time Communication) is a free and open-source project providing web browsers and mobile applications with real-time communication (RTC) via application programming interfaces (APIs).
 
 Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
@@ -8,6 +10,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 - [Official](#official)
 - [Tutorial](#tutorial)
+- [Discussion](#discussion)
 - [Samples](#samples)
 - [Libraries](#libraries)
 	- [JavaScript](#javascript)
@@ -31,9 +34,10 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 ## Official
 
 - [Website](https://webrtc.org/) - Official WebRTC website.
-- [MDN](https://developer.mozilla.org/en-US/docs/Glossary/WebRTC) - WebRTC on MDN web docs.
+- [Docs](https://developer.mozilla.org/en-US/docs/Glossary/WebRTC) - WebRTC on MDN web docs.
 - [Source](https://webrtc.googlesource.com/src) - WebRTC source repository.
-- [Live demos](https://webrtc.github.io/samples/) - WebRTC Live demos.
+- [Demos](https://webrtc.github.io/samples/) - WebRTC samples and live demos.
+- [Article](https://en.wikipedia.org/wiki/WebRTC) - WebRTC article from Wikipedia.
 
 ## Tutorial
 
@@ -43,6 +47,13 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [WebRTC For The Curious](https://webrtcforthecurious.com/) - WebRTC For The Curious is an open-source book created by WebRTC implementers to share their hard-earned knowledge with the world. It's written for those who are always looking for more and don't settle for abstraction.
 - [WebRTC on web.dev](https://web.dev/articles/webrtc-basics) - Get started with WebRTC.
 - [WebRTC introduction](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols) - Introduction to WebRTC protocols.
+- [WebRTC infrastructure](https://web.dev/articles/webrtc-infrastructure) - Build the backend services needed for a WebRTC app.
+
+## Discussion
+
+- [webrtc](https://stackoverflow.com/tags/webrtc) - WebRTC on Stack Overflow.
+- [discuss-webrtc](https://groups.google.com/g/discuss-webrtc) - WebRTC on Google Groups.
+- [r/WebRTC](https://www.reddit.com/r/WebRTC/) - WebRTC on Reddit.
 
 ## Samples
 
@@ -109,8 +120,8 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [simple-peer-files](https://github.com/subins2000/simple-peer-files) - A library to send files over WebRTC.
 - [trystero](https://github.com/dmotz/trystero) - Build instant multiplayer webapps, no server required.
 - [video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite.
-- [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC peer-to-peer connection for static client side web application.
-- [WebPEER](https://github.com/nuzulul/webpeerjs) - WebPEER is a novel decentralized P2P network inside browser with a chance of working.
+- [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC Mesh P2P Network without signaling server.
+- [WebPEER](https://github.com/nuzulul/webpeerjs) - WebPEER is a novel decentralized P2P network overlay in browser-side with a chance of working.
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
 - [webrtc-issue-detector](https://github.com/VLprojects/webrtc-issue-detector) - Diagnostic tool and troubleshooter for WebRTC applications with Mean Opinion Score (MOS) calculator.
 - [WebTorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web.
