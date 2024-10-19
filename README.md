@@ -44,7 +44,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [WebRTC codelabs](https://codelabs.developers.google.com/codelabs/webrtc-web#0) - Real time communication with WebRTC.
 - [WebRTC developer](https://developers.google.com/codelabs/webrtc-web#0) - Enable real-time communication with WebRTC.
 - [WebRTC guides](https://webrtc.org/getting-started/overview) - Getting started with WebRTC.
-- [WebRTC For The Curious](https://webrtcforthecurious.com/) - WebRTC For The Curious is an open-source book created by WebRTC implementers to share their hard-earned knowledge with the world. It's written for those who are always looking for more and don't settle for abstraction.
+- [WebRTC For The Curious](https://webrtcforthecurious.com/) - Open-source book created by WebRTC implementers to share their hard-earned knowledge with the world.
 - [WebRTC on web.dev](https://web.dev/articles/webrtc-basics) - Get started with WebRTC.
 - [WebRTC introduction](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols) - Introduction to WebRTC protocols.
 - [WebRTC infrastructure](https://web.dev/articles/webrtc-infrastructure) - Build the backend services needed for a WebRTC app.
@@ -211,6 +211,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 ### Game
 
 - [allkaraoke](https://github.com/Asvarox/allkaraoke) - Online Karaoke game with pitch detection in your browser.
+- [The Superviral Word Game](https://github.com/the-illarionov/the-superviral-word-game) - A Vue word game based on the Yakut national sport "Mas-wrestling". Uses XState for state management, WebRTC for multiplayer and has custom WebGL engine.
 
 ### Screen
 
