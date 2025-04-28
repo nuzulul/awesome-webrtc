@@ -121,6 +121,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC Mesh P2P Network without signaling server.
 - [WebPEER](https://github.com/nuzulul/webpeerjs) - WebPEER is a novel decentralized P2P network overlay in browser-side with a chance of working.
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
+- [webrtc-garbage-collector](https://github.com/nuzulul/webrtc-garbage-collector) - WebRTC garbage collector.
 - [webrtc-issue-detector](https://github.com/VLprojects/webrtc-issue-detector) - Diagnostic tool and troubleshooter for WebRTC applications with Mean Opinion Score (MOS) calculator.
 - [WebTorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web.
 
