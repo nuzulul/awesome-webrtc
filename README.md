@@ -109,6 +109,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [MultiStreamsMixer](https://github.com/muaz-khan/MultiStreamsMixer) - JavaScript library that allows you pass multiple streams (e.g. screen+camera or multiple-cameras) and get single stream.
 - [NetplayJS](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required, powered by rollback netcode + WebRTC.
 - [P2P Media Loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page.
+- [p2party-js](https://github.com/p2party/p2party-js) - TS/WASM library to create WebRTC mesh networks with offensive cryptography and file transfers of arbitrary size in one URL.
 - [PeerLite](https://github.com/skyllo/peer-lite) - Lightweight WebRTC browser library that supports video, audio and data channels.
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC.
@@ -191,6 +192,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Heyy](https://github.com/IshuPrabhakar/Heyy-chat-app) - A Realtime Chat Application using flutter, Asp.Net Core Web Api, SignalR , WebRTC etc.
 - [jsxc](https://github.com/jsxc/jsxc) - Real-time xmpp chat application with video calls, file transfer and encrypted communication.
 - [otr.to](https://github.com/jermainee/otr.to) - A secure peer-to-peer chat in your web browser.
+- [P2Party](https://p2party.com) - WebRTC mesh networks with offensive cryptography and file transfers of arbitrary size in one URL.
 - [Pychat](https://github.com/akoidan/pychat) - Webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing.
 - [quickmeet](https://github.com/i-aryan/quickmeet) - A video chat/meeting webapp using WebRTC and WebSockets. Basically a Google Meet clone + a collaborative Whiteboard.
 - [talkhouse](https://github.com/saalikmubeen/talkhouse) - WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
