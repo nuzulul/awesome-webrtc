@@ -241,6 +241,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 - [Ant Media Server](https://github.com/ant-media/Ant-Media-Server) - Live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency.
 - [Coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
+- [CrabCamera](https://github.com/ptsochantaris/crabcamera) - Simple video streaming server using WebRTC for real-time camera streaming to browsers with minimal latency and easy setup.
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [MiroTalk WebRTC Live Broadcast](https://github.com/miroslavpejic85/mirotalkbro) - Allows to broadcast live video, audio and screen stream to all connected users (viewers).
 - [OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
