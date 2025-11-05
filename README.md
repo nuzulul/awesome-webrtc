@@ -41,6 +41,8 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Demos](https://webrtc.github.io/samples/) - WebRTC samples and live demos.
 - [Article](https://en.wikipedia.org/wiki/WebRTC) - WebRTC article from Wikipedia.
 - [API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) - WebRTC API on MDN.
+- [Issues](https://issues.webrtc.org/issues?q=status:open) - Search WebRTC issues.
+- [Standardization](https://w3c.github.io/webrtc-pc/) - W3C specifications of WebRTC.
 - [Browser Support](https://caniuse.com/rtcpeerconnection) - Browser support for WebRTC.
 
 ## Tutorial
