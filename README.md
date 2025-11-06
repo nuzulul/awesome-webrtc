@@ -288,6 +288,8 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [tiny-web-metaverse](https://github.com/takahirox/tiny-web-metaverse) - A web-based 3D virtual space lightweight framework with high flexibility, extensibility, and easy hosting, built on ECS architecture.
 - [uProxy](https://github.com/UWNetworksLab/uProxy-p2p) - Browser extension that lets users share their internet connection.
 - [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
+- [webrtc-tunnel](https://github.com/yume-chan/webrtc-tunnel) - Use WebRTC to create tunnels even when peers are behind NAT.
+- [web-p2p-tunnel](https://github.com/andrewmthomas87/web-p2p-tunnel) - P2P HTTP tunnel directly to/from the browser.
 
 ## Miscellaneous
 
