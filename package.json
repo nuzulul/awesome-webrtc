@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"start":"npm run test",
-		"test": "npx awesome-lint README.md"
+		"start":"npm run lint",
+		"lint": "npx awesome-lint README.md"
 	}
 }
