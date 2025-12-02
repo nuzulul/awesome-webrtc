@@ -184,8 +184,9 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 ### Audio
 
 - [babelcast](https://github.com/porjo/babelcast) - WebRTC audio broadcast server.
-- [wireless-microphone](https://github.com/suda/wireless-microphone) - Turn any device into a wireless microphone over the internet.
+- [Sayna](https://github.com/SaynaAI/sayna) - Voice infrastructure for AI agents with unified STT/TTS APIs, real-time audio streaming, and LiveKit integration.
 - [webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
+- [wireless-microphone](https://github.com/suda/wireless-microphone) - Turn any device into a wireless microphone over the internet.
 
 ### Chat
 
