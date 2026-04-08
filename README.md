@@ -146,6 +146,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 - [datachannel-wasm](https://github.com/paullouisageneau/datachannel-wasm) - C++ WebRTC Data Channels and WebSockets for WebAssembly in browsers.
 - [HumbleNet](https://github.com/HumbleNet/HumbleNet) - A cross-platform networking library that works in the browser.
+- [icey](https://github.com/nilstate/icey) - Lightweight libwebrtc alternative and real-time media stack for signaling, TURN, media transport, and browser delivery, built in C++20.
 - [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets.
 - [libpeer](https://github.com/sepfy/libpeer) - WebRTC Library for IoT/Embedded Device using C.
 - [libwebrtc](https://github.com/webrtc-sdk/libwebrtc) - A C++ wrapper for binary release, mainly used for flutter-webrtc desktop (windows, linux, embedded).
