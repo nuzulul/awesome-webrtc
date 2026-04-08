@@ -132,10 +132,13 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 ### Node
 
+- [LLMRTC](https://github.com/llmrtc/llmrtc) - TypeScript SDK for AI-native real-time voice + vision apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 - [medooze-media-server](https://github.com/medooze/media-server-node) - WebRTC Media Server for Node.js.
 - [node-datachannel](https://github.com/murat-dogan/node-datachannel) - Easy to use WebRTC data channels and media transport. libdatachannel node bindings.
 - [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC.
 - [werift-webrtc](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4.
+
+
 
 ### Go
 
