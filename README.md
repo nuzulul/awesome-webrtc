@@ -162,6 +162,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Coturn](https://github.com/coturn/coturn) - Free open source implementation of TURN and STUN Server.
 - [Eturnal](https://github.com/processone/eturnal) - STUN / TURN standalone server.
 - [go-stun](https://github.com/ccding/go-stun) - A go implementation of the STUN client (RFC 3489 and RFC 5389).
+- [natcheck](https://github.com/1mb-dev/natcheck) - NAT type diagnosis CLI. Probes STUN servers, classifies mapping behaviour per RFC 5780, and reports a WebRTC direct-P2P forecast.
 - [Pion TURN](https://github.com/pion/turn) -  Go toolkit for building TURN servers and clients.
 - [stun](https://github.com/nodertc/stun) - Low-level Session Traversal Utilities for NAT (STUN) client and server.
 - [STUNTMAN](https://github.com/jselbie/stunserver) - An open source STUN server.
