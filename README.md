@@ -262,6 +262,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 ### Video Conference
 
+- [World-Meeting](https://world-meeting.app/) - Browser-based private video meetings with real-time voice translation, translated voice, live subtitles, guest links, and screen sharing.
 - [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [call-me](https://github.com/miroslavpejic85/call-me) - Your Go-To for Instant Video Calls!
 - [edumeet](https://github.com/edumeet/edumeet) - Multiparty web-meetings using mediasoup and WebRTC.
