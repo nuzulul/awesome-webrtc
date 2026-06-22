@@ -114,6 +114,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [NetplayJS](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required, powered by rollback netcode + WebRTC.
 - [P2P Media Loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page.
 - [p2party-js](https://github.com/p2party/p2party-js) - TS/WASM library to create WebRTC mesh networks with offensive cryptography and file transfers of arbitrary size in one URL.
+- [p2pt](https://github.com/subins2000/p2pt) - Use free public WebTorrent trackers as signalling servers for WebRTC apps.
 - [PeerLite](https://github.com/skyllo/peer-lite) - Lightweight WebRTC browser library that supports video, audio and data channels.
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC.
@@ -177,6 +178,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Cignal](https://github.com/sauravkp/cignal--production-grade-WebRTC-video-calling) - Cignal, a minimalistic yet scalable WebRTC signaling server written in Node.js.
 - [flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
 - [PeerServer](https://github.com/peers/peerjs-server) - PeerServer helps establishing connections between PeerJS clients.
+- [signalingserver.js](https://github.com/nuzulul/signalingserver.js) - Alternative signaling server that works in browser, no server required.
 - [simple-signal](https://github.com/t-mullen/simple-signal) - Signalling solution for simple-peer with socket.io.
 - [singo](https://github.com/tockn/singo) - Simple WebRTC Signaling Server written in Go.
 - [SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library.
