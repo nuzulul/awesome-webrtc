@@ -215,6 +215,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [filedrop](https://github.com/mat-sz/filedrop) - WebRTC E2E encrypted file transfer - React + Node.js.
 - [Filegogo](https://github.com/a-wing/filegogo) - A file transfer tool that can be used in the browser WebRTC p2p.
 - [FilePizza](https://github.com/kern/filepizza) - Peer-to-peer file transfers in your browser.
+- [Floe](https://floe.one/) - Browser and CLI peer-to-peer file transfer over WebRTC; file data never touches a server.
 - [GFile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC.
 - [PairDrop](https://github.com/schlagmichdoch/PairDrop) - Local file sharing in your browser.
 - [peermesh](https://github.com/perguth/peermesh) - Exchange files p2p and e2e encrypted over a fully meshed network in your browser using WebRTC.
