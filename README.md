@@ -212,6 +212,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 ### File Transfer
 
+- [8ma Quick Transfer](https://t.8ma.co/en/?from=github-awesome-webrtc) - Free browser-to-browser WebRTC file and folder transfer with no sign-up or installation.
 - [filedrop](https://github.com/mat-sz/filedrop) - WebRTC E2E encrypted file transfer - React + Node.js.
 - [Filegogo](https://github.com/a-wing/filegogo) - A file transfer tool that can be used in the browser WebRTC p2p.
 - [FilePizza](https://github.com/kern/filepizza) - Peer-to-peer file transfers in your browser.
