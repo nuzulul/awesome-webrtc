@@ -121,6 +121,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [peerfetch](https://github.com/ambianic/peerfetch) - Peer-to-peer HTTP over WebRTC.
 - [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc).
 - [RecordRTC](https://github.com/muaz-khan/RecordRTC) - WebRTC JavaScript library for audio/video as well as screen activity recording.
+- [rtcstats](https://github.com/rtcstats/rtcstats) - WebRTC observability toolkit: instruments RTCPeerConnection to capture getStats and the full API call trace, with a server for storing and analyzing sessions.
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
 - [simple-peer-files](https://github.com/subins2000/simple-peer-files) - A library to send files over WebRTC.
 - [trystero](https://github.com/dmotz/trystero) - Build instant multiplayer webapps, no server required.
