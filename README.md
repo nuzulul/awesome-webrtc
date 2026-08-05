@@ -123,6 +123,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [RecordRTC](https://github.com/muaz-khan/RecordRTC) - WebRTC JavaScript library for audio/video as well as screen activity recording.
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
 - [simple-peer-files](https://github.com/subins2000/simple-peer-files) - A library to send files over WebRTC.
+- [stable-webrtc](https://github.com/colocohen/stable-webrtc) - Production-grade WebRTC wrapper that handles glare, renegotiation, ICE restart, SDP compression and reconnection.
 - [trystero](https://github.com/dmotz/trystero) - Build instant multiplayer webapps, no server required.
 - [video-stream-merger](https://github.com/t-mullen/video-stream-merger) - Merge multiple video MediaStreams into one composite.
 - [webConnect.js](https://github.com/nuzulul/webConnect.js) - Auto WebRTC Mesh P2P Network without signaling server.
@@ -138,6 +139,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [medooze-media-server](https://github.com/medooze/media-server-node) - WebRTC Media Server for Node.js.
 - [node-datachannel](https://github.com/murat-dogan/node-datachannel) - Easy to use WebRTC data channels and media transport. libdatachannel node bindings.
 - [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC.
+- [webrtc-server](https://github.com/colocohen/webrtc-server) - Pure JavaScript WebRTC stack for Node.js with the W3C API (RTCPeerConnection), includes ICE/DTLS/SRTP/SCTP, simulcast, and shared UDP port routing for multi-peer servers.
 - [werift-webrtc](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4.
 
 
@@ -170,6 +172,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [STUNTMAN](https://github.com/jselbie/stunserver) - An open source STUN server.
 - [STUNNER](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [STUNner](https://github.com/l7mp/stunner) - A Kubernetes media gateway for WebRTC.
+- [turn-server](https://github.com/colocohen/turn-server) - STUN/TURN server, client and ICE agent for Node.js. RFC 8489/8656, UDP/TCP/TLS/DTLS/WebSocket.
 - [turn-rs](https://github.com/mycrl/turn-rs) - A pure rust implemented TURN server.
 - [violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server.
 
