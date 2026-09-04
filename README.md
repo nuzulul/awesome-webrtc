@@ -210,6 +210,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [quickmeet](https://github.com/i-aryan/quickmeet) - A video chat/meeting webapp using WebRTC and WebSockets. Basically a Google Meet clone + a collaborative Whiteboard.
 - [talkhouse](https://github.com/saalikmubeen/talkhouse) - WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
 - [tl-rtc-file-tool](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
+- [Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - Open-source WebRTC browser softphone/dialer, connects to Asterisk, FreeSWITCH, or any SIP PBX.
 
 ### File Transfer
 
