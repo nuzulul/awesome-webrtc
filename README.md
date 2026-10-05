@@ -210,6 +210,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [quickmeet](https://github.com/i-aryan/quickmeet) - A video chat/meeting webapp using WebRTC and WebSockets. Basically a Google Meet clone + a collaborative Whiteboard.
 - [talkhouse](https://github.com/saalikmubeen/talkhouse) - WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
 - [tl-rtc-file-tool](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
+- [Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - Open-source WebRTC browser softphone/dialer, connects to Asterisk, FreeSWITCH, or any SIP PBX.
 
 ### File Transfer
 
@@ -223,6 +224,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Pipe File Transfer](https://github.com/Sh3b0/pft) - Web application for real-time file transfer using WebRTC.
 - [Peertransfer](https://github.com/perguth/peertransfer) - Send a file p2p and e2e encrypted in your browser using WebRTC.
 - [qrdrop](https://github.com/stan-ely/qrdrop) - Browser, CLI and desktop/Android app peer-to-peer file transfer where the QR code is the only credential; E2E encrypted with an emoji verification code.
+- [RealtimeClipboard](https://github.com/akshaynikhare/RealtimeClipboard) - End-to-end encrypted clipboard sync between devices, with files sent peer-to-peer.
 - [ShareDrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop.
 - [Snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing.
 - [WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC.
