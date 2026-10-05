@@ -223,6 +223,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [peermesh](https://github.com/perguth/peermesh) - Exchange files p2p and e2e encrypted over a fully meshed network in your browser using WebRTC.
 - [Pipe File Transfer](https://github.com/Sh3b0/pft) - Web application for real-time file transfer using WebRTC.
 - [Peertransfer](https://github.com/perguth/peertransfer) - Send a file p2p and e2e encrypted in your browser using WebRTC.
+- [qrdrop](https://github.com/stan-ely/qrdrop) - Browser, CLI and desktop/Android app peer-to-peer file transfer where the QR code is the only credential; E2E encrypted with an emoji verification code.
 - [RealtimeClipboard](https://github.com/akshaynikhare/RealtimeClipboard) - End-to-end encrypted clipboard sync between devices, with files sent peer-to-peer.
 - [ShareDrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop.
 - [Snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing.
