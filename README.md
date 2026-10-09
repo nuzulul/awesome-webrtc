@@ -201,6 +201,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Brie.fi/ng](https://github.com/holtwick/briefing/) - Secure direct video group chat.
 - [Chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral.
 - [Databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
+- [Fliporium](https://github.com/aivrar/fliporium-p2p) - Portable Windows desktop app for end-to-end encrypted group chat and file sharing over a WebRTC mesh, built with Go, pion/webrtc and Wails.
 - [Gise](https://github.com/vgiselbrecht/gise-video-chat) - Video chat application for your own web server.
 - [Heyy](https://github.com/IshuPrabhakar/Heyy-chat-app) - A Realtime Chat Application using flutter, Asp.Net Core Web Api, SignalR , WebRTC etc.
 - [jsxc](https://github.com/jsxc/jsxc) - Real-time xmpp chat application with video calls, file transfer and encrypted communication.
