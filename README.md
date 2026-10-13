@@ -268,6 +268,8 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [TStream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal.
 - [VDO.Ninja](https://github.com/steveseguin/vdo.ninja) - Powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 
+- [TalkAStranger Live Linker SDK](https://github.com/umairkhan2582/talkastranger-live-linker-sdk) - Real-time stream linker SDK connecting WebRTC video chat with multi-platform broadcasting and creator monetization.
+
 ### Video Conference
 
 - [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -303,6 +305,8 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [webrtc-tunnel](https://github.com/yume-chan/webrtc-tunnel) - Use WebRTC to create tunnels even when peers are behind NAT.
 - [web-p2p-tunnel](https://github.com/andrewmthomas87/web-p2p-tunnel) - P2P HTTP tunnel directly to/from the browser.
+
+- [TalkAStranger Stream Overlays](https://github.com/umairkhan2582/talkastranger-stream-overlays) - Lightweight transparent OBS Studio and Streamlabs browser source for live community alerts and gift notifications.
 
 ## Miscellaneous
 
