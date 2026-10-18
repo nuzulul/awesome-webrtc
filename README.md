@@ -287,6 +287,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Roomler](https://github.com/gjovanov/roomler) - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway).
 - [Talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [Trio Calls](https://github.com/arpitBhalla/trio-calls) - A multi-participant video call platform for calling across the world for free with screen sharing.
+- [VCPeer](https://vcpeer.com) - Self-hosted sharing suite with no-signup video calls, plus live streaming, scheduling, and file sending in one room.
 - [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
 
 ### Tool
