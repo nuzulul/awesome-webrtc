@@ -234,6 +234,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 ### Game
 
 - [allkaraoke](https://github.com/Asvarox/allkaraoke) - Online Karaoke game with pitch detection in your browser.
+- [Parlour](https://github.com/braedonsaunders/parlour) - Browser card games (Blitz/31 and Wild) played with friends over a WebRTC peer-to-peer mesh using a room code, no accounts or game server.
 - [The Superviral Word Game](https://github.com/the-illarionov/the-superviral-word-game) - A Vue word game based on the Yakut national sport "Mas-wrestling". Uses XState for state management, WebRTC for multiplayer and has custom WebGL engine.
 
 ### Screen
