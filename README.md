@@ -131,6 +131,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [WebRTCStats](https://github.com/peermetrics/webrtc-stats) - Helps you collect stats for peer connections.
 - [webrtc-garbage-collector](https://github.com/nuzulul/webrtc-garbage-collector) - WebRTC garbage collector.
 - [webrtc-issue-detector](https://github.com/VLprojects/webrtc-issue-detector) - Diagnostic tool and troubleshooter for WebRTC applications with Mean Opinion Score (MOS) calculator.
+- [webrtc-recovery](https://github.com/AiLaoHuYu/webrtc-recovery) - Frame-level freeze detection with an ICE restart, full rejoin and jittered backoff recovery ladder.
 - [WebTorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web.
 
 ### Node
