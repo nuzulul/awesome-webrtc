@@ -199,6 +199,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 ### Chat
 
 - [Brie.fi/ng](https://github.com/holtwick/briefing/) - Secure direct video group chat.
+- [Aura](https://t.me/you_aura_bot) - Random one-on-one video chat with strangers inside Telegram (closed-source hosted product).
 - [Chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral.
 - [Databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
 - [Gise](https://github.com/vgiselbrecht/gise-video-chat) - Video chat application for your own web server.
