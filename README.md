@@ -235,6 +235,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 - [allkaraoke](https://github.com/Asvarox/allkaraoke) - Online Karaoke game with pitch detection in your browser.
 - [The Superviral Word Game](https://github.com/the-illarionov/the-superviral-word-game) - A Vue word game based on the Yakut national sport "Mas-wrestling". Uses XState for state management, WebRTC for multiplayer and has custom WebGL engine.
+- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Multiplayer Halloween candy heist web game with real-time Agora RTC voice chat.
 
 ### Screen
 
