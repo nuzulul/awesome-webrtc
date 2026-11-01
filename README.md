@@ -230,6 +230,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC.
 - [WIFIDrop](https://github.com/nuzulul/wifidrop) - Instant transfer unlimited size of files over WIFI powered by WebRTC.
 - [zero-share](https://github.com/ntsd/zero-share) - A client-side secure P2P file sharing using WebRTC.
+- [ZeroServer](https://github.com/Ptraaah/zeroserver) - Send files directly between browsers over WebRTC with no server holding them, a SHA-256 check on every file, and self-hosting from a single HTML file.
 
 ### Game
 
