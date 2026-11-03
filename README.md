@@ -83,6 +83,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Video Chat WebApp](https://github.com/sastava007/Video-Chat-WebApp-Scalled-Horizontally) - Video Chat WebApp using Node.js | Redis | VueJS | WebRTC | Socket.io.
 - [Video Meeting](https://github.com/0x5eba/Video-Meeting) - Google Meet / Zoom clone in a few lines of code.
 - [video-group-meeting](https://github.com/Hyunse/video-group-meeting) - WebRTC video chat for multi users using React and Node Express.
+- [videosdk-nodejs-video-calling](https://github.com/videosdk-community/videosdk-nodejs-video-calling) - Group video call where a Node.js Express server creates rooms, issues scoped host and guest tokens, and ends the call for everyone.
 - [videosdk-rtc-react-sdk-example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example) - WebRTC based video conferencing SDK for React JS.
 - [Video-conferencing-web-application](https://github.com/omkar13/Video-conferencing-web-application) - Developed a multi-party video conferencing and web chat application using WebRTC, JavaScript and Web-sockets with features such as canvas sharing, presentation sharing and video sharing.
 - [WebRTC-Demo](https://github.com/maitrungduc1410/WebRTC-Demo) - WebRTC demo on Web, Android and iOS.
