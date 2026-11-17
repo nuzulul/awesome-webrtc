@@ -288,6 +288,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [Talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [Trio Calls](https://github.com/arpitBhalla/trio-calls) - A multi-participant video call platform for calling across the world for free with screen sharing.
 - [Wirow](https://github.com/wirow-io/wirow-server) - A full featured self-hosted video web-conferencing platform.
+- [Hudd](https://github.com/AldrichWorld/hudd) - A browser based video conference system, one command self-hosting.
 
 ### Tool
 
