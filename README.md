@@ -195,6 +195,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [babelcast](https://github.com/porjo/babelcast) - WebRTC audio broadcast server.
 - [wireless-microphone](https://github.com/suda/wireless-microphone) - Turn any device into a wireless microphone over the internet.
 - [webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
+- [webrtc-sip-softphone](https://github.com/AhmedElbashier/webrtc-sip-softphone) - Browser SIP softphone (JsSIP, WebRTC audio, DTMF, live stats) with a docker-compose Kamailio and FreeSWITCH lab.
 
 ### Chat
 
