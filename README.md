@@ -107,6 +107,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 - [DetectRTC](https://github.com/muaz-khan/DetectRTC) - A tiny JavaScript library that can be used to detect WebRTC features e.g. system having speakers, microphone or webcam, screen capturing is supported, number of audio/video devices etc.
 - [discovery-swarm-webrtc](https://github.com/geut/discovery-swarm-webrtc) - Discovery-swarm for WebRTC.
 - [instacam](https://github.com/xavierfoucrier/instacam) - Library to perform instant canvas video through the WebRTC API with a fresh touch of CSS filters.
+- [leak-check](https://github.com/MyIPScan/leak-check) - Tiny MIT library that detects local IP addresses exposed through WebRTC ICE candidates.
 - [liowebrtc](https://github.com/lazorfuzz/liowebrtc) - An event-based WebRTC library that makes it easy to embed real-time peer to peer communication into UI components.
 - [LiveKit browser client SDK](https://github.com/livekit/client-sdk-js) -  Add real-time video, audio and data features to your JavaScript/TypeScript app.
 - [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording.
