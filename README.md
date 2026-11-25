@@ -145,6 +145,7 @@ Community list of awesome WebRTC projects, apps, tools, libraries and more.
 
 ### Go
 
+- [jargo](https://github.com/gojargo/jargo) - Framework for real-time voice AI agents over WebRTC, with streaming STT, LLM and TTS pipelines, speech-to-speech models and barge-in.
 - [Pion WebRTC](https://github.com/pion/webrtc) - A pure Go implementation of the WebRTC API.
 - [RTCTunnel](https://github.com/rtctunnel/rtctunnel) - RTCTunnel builds network tunnels over WebRTC.
 
